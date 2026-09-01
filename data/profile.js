@@ -13,7 +13,7 @@ const PROFILE = {
   github: "https://github.com/atifkhan161",
   linkedin: "https://www.linkedin.com/in/atifkhan161/",
   sourceUrl: "https://github.com/atifkhan161/atifkhan161.github.io",
-  resumeUrl: "cv.md",
+  resumeUrl: "cv/atif_cv.pdf",
 
   /** First day at first role (per CV) — drives the dynamic years-of-experience. */
   careerStart: "2013-04-01",
